@@ -25,22 +25,18 @@
 * [Contact](#contact)
 
 
-
 <!-- ABOUT THE PROJECT -->
 
 ### Built With
 * [Python](https://www.python.org/)
-* [InfluxDB](https://www.influxdata.com/)
+* [InfluxDB](https://www.influxdata.com/)  
 * [Grafana](https://grafana.com/)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-First it is necessary to install NodeJs, Git, npm, yarn.
-It would also be nice to have already installed Expo and Insomnia to test the project.
-
-cx_Oracle
+First it is necessary to install Python and Python library cx_Oracle.
 ### Installation
 
 1. Clone the repo
@@ -51,8 +47,6 @@ git clone https://github.com/marcosmarcon/Oracle-and-Grafana-integration
 ```sh
 python -m pip install cx_Oracle --upgrade pip
 ```
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
