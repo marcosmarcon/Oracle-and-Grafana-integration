@@ -28,8 +28,11 @@
 <!-- ABOUT THE PROJECT -->
 
 ## Technologies
-* [Python](https://www.python.org/)
-* [InfluxDB](https://www.influxdata.com/)  
+* [Python](https://www.python.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo" width="30" height="30">
+  
+
+* [InfluxDB](https://www.influxdata.com/) <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" alt="Logo" width="30" height="30">
+  
 * [Grafana](https://grafana.com/)
 
 
