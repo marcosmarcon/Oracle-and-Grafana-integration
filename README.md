@@ -8,10 +8,18 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<p>
+Project to integrate the Oracle database with Grafana without using plugins.&nbsp<br>
+</p>
+<p>
+Simple execution like 1, 2, 3
+</p>
+  
+   1. Build your Oracle query<br>
+   2. Python script to execute the Oracle query and put the result inside Influx<br>
+   3. Grafana reads Influx data<br>
 
-  <p align="center">
-    Project to use Oracle and Grafana without using plugins
-  </p>
+ 
 
 
 <!-- TABLE OF CONTENTS -->
