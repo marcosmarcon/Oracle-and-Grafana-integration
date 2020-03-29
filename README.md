@@ -33,7 +33,7 @@
 
 * [InfluxDB](https://www.influxdata.com/) <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" alt="Logo" width="30" height="30">
   
-* [Grafana](https://grafana.com/)
+* [Grafana](https://grafana.com/) <img src="https://github.com/grafana/grafana/blob/master/public/img/grafana_com_auth_icon.svg" alt="Logo" width="30" height="30">
 
 
 <!-- GETTING STARTED -->
