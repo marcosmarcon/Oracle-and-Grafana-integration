@@ -17,7 +17,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Built With](#built-with)
+* [technologies](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Contributing](#contributing)
@@ -27,7 +27,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-### Built With
+### technologies
 * [Python](https://www.python.org/)
 * [InfluxDB](https://www.influxdata.com/)  
 * [Grafana](https://grafana.com/)
