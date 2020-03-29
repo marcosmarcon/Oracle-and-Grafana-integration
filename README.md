@@ -27,7 +27,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-### technologies
+### built-with
 * [Python](https://www.python.org/)
 * [InfluxDB](https://www.influxdata.com/)  
 * [Grafana](https://grafana.com/)
