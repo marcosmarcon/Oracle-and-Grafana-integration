@@ -36,12 +36,11 @@ Simple execution like 1, 2, 3
 <!-- ABOUT THE PROJECT -->
 
 ## Technologies
-* [Python](https://www.python.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo" width="30" height="30">
+* [Python](https://www.python.org/) <img src="https://github.com/marcosmarcon/Oracle-and-Grafana-integration/blob/master/images/python.svg" alt="Logo" width="30" height="30">
   
-
-* [InfluxDB](https://www.influxdata.com/) <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" alt="Logo" width="30" height="30">
+* [InfluxDB](https://www.influxdata.com/) <img src="https://github.com/marcosmarcon/Oracle-and-Grafana-integration/blob/master/images/influx.svg" alt="Logo" width="30" height="30">
   
-* [Grafana](https://grafana.com/) <img src="https://github.com/grafana/grafana/blob/master/public/img/grafana_com_auth_icon.svg" alt="Logo" width="30" height="30">
+* [Grafana](https://grafana.com/) <img src="https://github.com/marcosmarcon/Oracle-and-Grafana-integration/blob/master/images/grafana.svg" alt="Logo" width="30" height="30">
 
 
 <!-- GETTING STARTED -->
